@@ -4,3 +4,5 @@ For each node, all elements in the left subtree are less than the node's value, 
 
 ![image](https://github.com/raionpac/binary-search-tree/assets/18443784/7692a4ca-08eb-4b8c-8096-f24bd4dc74ab)
 
+![image](https://github.com/raionpac/binary-search-tree/assets/18443784/24b4e741-2754-4dc6-9195-6b999b6f38ae)
+
